@@ -56,7 +56,6 @@ export default function Resume() {
                   </h3>
                 </div>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Electrical and Computer Engineering • The University of Texas at Austin
                 </p>
               </div>
               
